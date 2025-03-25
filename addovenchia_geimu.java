@@ -1,4 +1,4 @@
-// Author: Dimitar Ivanov
+// Author: balkan-power
 // Starting date: 12.03.2025
 // Ending date: 20.03.2025
 // Description: Adventure simulation game where Tom Aspinall tries to get a title shot against Jon Jones.
