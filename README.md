@@ -1,7 +1,8 @@
 # addovenchia_geimu
 Text-based game about a champion avoiding a potential fight against the interim champion within the same weight division.
 
-Hello, Jon! I'm getting my first undisputed title shot. Text-based game about a champion avoiding a potential fight against the interim champion within the same weight division.
+Hello, Jon! I'm getting my first undisputed title shot. 
+Text-based game about a champion avoiding a potential fight against the interim champion within the same weight division.
 Copyright (C) 2025 Dimitar Ivanov
 
 This program is free software; you can redistribute it and/or
