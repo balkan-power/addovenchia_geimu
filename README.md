@@ -1,6 +1,8 @@
 # addovenchia_geimu
 Text-based game about a champion avoiding a potential fight against the interim champion within the same weight division.
 
+This game is fictional based on real events, the portrayal of the people mentioned in this game may not correlate with their real behaviour, and is therefore an exaggerated, fictional portrayal and is not to be taken seriously.
+
 Hello, Jon! I'm getting my first undisputed title shot. -- Text-based game about a champion avoiding a potential fight against the interim champion within the same weight division.
 Copyright (C) 2025 Dimitar Ivanov
 
