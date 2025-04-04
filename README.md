@@ -19,3 +19,6 @@ GNU General Public License for more details.
 You should have received a copy of the GNU General Public License
 along with this program; if not, see
 <https://www.gnu.org/licenses/>.
+
+Instructions:
+Run this game in Java, with your IDE of choice. You must have Java installed for this to work, preferrably the latest version.
